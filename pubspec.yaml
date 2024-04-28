@@ -25,7 +25,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  android_intent_plus: ^4.0.3
+  android_intent_plus: ^5.0.2
   flutter:
     sdk: flutter
 
